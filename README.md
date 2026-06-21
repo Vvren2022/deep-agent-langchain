@@ -37,9 +37,6 @@ Open http://localhost:8501 in your browser.
 - `Deep-agents-With-Langchain/streamlit_app.py` — Streamlit chatbot demo
 - `Deep-agents-With-Langchain/deepagentsdemo/` — notebooks, skills, and demo assets
 
-## Security
-
-Never commit `.env` files or API keys. Use `.env.example` as a template only.
 
 <img width="1892" height="840" alt="image" src="https://github.com/user-attachments/assets/548f2578-b2cf-4539-a71e-8ff2e62c3508" />
 <img width="1845" height="537" alt="image" src="https://github.com/user-attachments/assets/91d8d99f-09d2-4bea-b9b1-b50108ebbd2a" />
