@@ -40,3 +40,10 @@ Open http://localhost:8501 in your browser.
 ## Security
 
 Never commit `.env` files or API keys. Use `.env.example` as a template only.
+
+<img width="1892" height="840" alt="image" src="https://github.com/user-attachments/assets/548f2578-b2cf-4539-a71e-8ff2e62c3508" />
+<img width="1845" height="537" alt="image" src="https://github.com/user-attachments/assets/91d8d99f-09d2-4bea-b9b1-b50108ebbd2a" />
+<img width="1330" height="650" alt="image" src="https://github.com/user-attachments/assets/c6b41bea-33c6-4a96-9a7c-bb237c73d2c6" />
+
+
+
